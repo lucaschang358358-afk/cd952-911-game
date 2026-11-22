@@ -1,0 +1,11 @@
+[rom]
+title = "911 Operator Pro"
+short-title = "911 CAD"
+category = "APPLET_GAME"
+default-locale = "en"
+copyright = "CD952 911 Operator Pro (MIT)"
+version = "1.0.0"
+
+[metadata.en]
+title = "911 Operator Pro"
+short-title = "911 CAD"
